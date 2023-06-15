@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    background: rgba(88, 146, 148,0.3);
+    width: 50%;
+    left: 21%;
+    position: relative;
+    padding: 38px;
+}
+.select{
+    height: 40px;
+    width: 30%;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 23px;
+}
